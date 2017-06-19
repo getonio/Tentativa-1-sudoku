@@ -1,9 +1,10 @@
 #include <stdio.h>
 
+
 #include <string.h>
 
 #include <stdlib.h>
-
+#include <windows.h> //getonio mudou
 
 int Matriz[9][9];
 
